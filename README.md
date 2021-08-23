@@ -4,4 +4,4 @@
 
 [Migration Guide](https://webpack.js.org/migrate/5/)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/1n92a0hb0yq6jsn2/branch/main?svg=true)](https://ci.appveyor.com/project/sedoy113/yarn-test/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/1n92a0hb0yq6jsn2?svg=true)](https://ci.appveyor.com/project/sedoy113/yarn-test)
